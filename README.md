@@ -4,11 +4,20 @@
  
 [CPU , GPU DPU] -->> silicon. these are conected to RISC-V
 
-**computation 
+*computation 
 
           --> host  (->>bairmatal)
 
          --> vrtualisation --> VM : we cam VM on AWS, GCP, OPEN STACK , PROXMOX
+        *hypervisor  
+         
+         | Type I  | Type II |
+| ------------------ | ---------------------------------------- |
+| Native (bare metal)                    | Hosted  |
+| Directly on hardware and runs guest OS  | Runs on previously installed OS  |
+| acts as light weight as it runs directly  | runs as software like other computer program
+
+         
             
          --> containers
             
@@ -27,5 +36,13 @@ orkestrater : this is mamanage service
 
   4 - DNS ( public or privete )
 
-5 - IPv4 & IPv6 protocol
+5 - IPv4 & IPv6 protocl
+
+# Storsge 
+
+1 - SAN
+
+2  - backup
+3 - NFS
+
   
