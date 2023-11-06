@@ -11,10 +11,22 @@
          --> vrtualisation --> VM : we cam VM on AWS, GCP, OPEN STACK , PROXMOX
         *hypervisor  
          
-         | Type I  | Type II |
+         
+         
+        
+         
+ | Type I  |               Type II |
+
+         
 | ------------------ | ---------------------------------------- |
+
+
 | Native (bare metal)                    | Hosted  |
+
+
 | Directly on hardware and runs guest OS  | Runs on previously installed OS  |
+
+
 | acts as light weight as it runs directly  | runs as software like other computer program
 
          
