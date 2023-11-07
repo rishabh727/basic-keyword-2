@@ -15,19 +15,11 @@
          
         
          
- | Type I  |               Type II |
-
-         
-| ------------------ | ---------------------------------------- |
-
-
-| Native (bare metal)                    | Hosted  |
-
-
-| Directly on hardware and runs guest OS  | Runs on previously installed OS  |
-
-
-| acts as light weight as it runs directly  | runs as software like other computer program
+| Type I   | Type II |
+| ---------------- | -------------- |
+| Native (bare metal)| Hosted  |
+| Directly on hardware and runs guest OS|Runs on previously installed OS  |
+| acts as light weight as it runs directly|runs as software like other computer program|
 
          
             
