@@ -21,9 +21,6 @@
 | Directly on hardware and runs guest OS|Runs on previously installed OS  |
 | acts as light weight as it runs directly|runs as software like other computer program|
 
-         
-            
-         --> containers
             
 * container --docker LXC
 
@@ -32,13 +29,13 @@ orkestrater : this is mamanage service
   # networking-->>
   networking : 
   
-  1 - public networking
+  1 - **public networking** - A public network is a type of network wherein anyone, namely the general public, has access and through it can connect to other networks or the Internet. 
 
-  2 - private networking
+  2 - **private networking** - In Internet networking, a private network is a computer network that uses a private address space of IP addresses. These addresses are commonly used for local area networks (LANs) in residential, office, and enterprise environments. Both the IPv4 and the IPv6 specifications define private IP address ranges.
   
-  3 - proxy or reverse proxy
+3 **proxy** - A proxy server is a system or router that provides a gateway between users and the internet. Therefore, it helps prevent cyber attackers from entering a private network. 
 
-  4 - DNS ( public or privete )
+4 - **DNS ( public or privete )** - All computers on the Internet, from your smart phone or laptop to the servers that serve content for massive retail websites, find and communicate with one another by using numbers. These numbers are known as IP addresses. 
 
 5 - IPv4 & IPv6 protocl
 
