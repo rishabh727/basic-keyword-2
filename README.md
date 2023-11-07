@@ -37,9 +37,12 @@ orkestrater : this is mamanage service
 
 4 - **DNS ( public or privete )** - All computers on the Internet, from your smart phone or laptop to the servers that serve content for massive retail websites, find and communicate with one another by using numbers. These numbers are known as IP addresses. 
 
-5 - IPv4 & IPv6 protocl
+5**IPv4** - nternet Protocol version 4 (IPv4) is the fourth version of the Internet Protocol (IP). It is one of the core protocols of standards-based internetworking methods in the Internet and other packet-switched networks. 
 
-# Storsge 
+6 **IPv6** - Internet Protocol version 6 (IPv6) is the most recent version of the Internet Protocol (IP), the communications protocol that provides an identification and location system for computers on networks and routes traffic across the Internet.
+
+
+# Storage 
 
 1 - SAN
 
